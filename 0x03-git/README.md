@@ -1,1 +1,2 @@
-My 0x03-git readme.
+Repo-session 0x01-git added
+It’s the only time you are allowed to update and commit from GitHub interface.
